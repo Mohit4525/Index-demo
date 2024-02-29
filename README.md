@@ -1,4 +1,5 @@
 # Index-demo
 This is my first repository.
 <br>
-author - Mohit Chauhan
+author - Mohit Rajput
+
